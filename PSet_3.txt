@@ -1,0 +1,11 @@
+Question 1-
+
+a) 
+x < y = 2
+x > y = 2
+x = y = 4
+
+b)
+x < y = 5
+x > y = 2
+x = y = 2

@@ -1,0 +1,98 @@
+QUESTION 1-
+a)<type 'str'>
+b)This is the first Week!
+c)<type 'int'>
+d)24
+e)<type 'float'>
+f)2.4
+g)<type 'str'>
+h)24
+i)<type 'str'>
+j)<type 'str'>
+k)<type 'str'>
+l)10300
+m)10 300
+n)10.3
+o)<type 'float'>
+
+QUESTION 2-
+
+a)1
+b)9
+c)-9
+d)Error
+e)Error
+f)9.81
+g)9.81
+h)<type 'str'>
+i)9
+j)<type 'str'>
+
+QUESTION 3-
+
+a)
+i)0
+ii)3.14159
+iii)3.14
+iv)3.14
+
+b) 
+i) str
+ii)float
+iii)float
+
+QUESTION 4-
+
+a)Invalid
+b)Valid
+c)Invalid
+d)Valid
+e)Invalid
+f)Valid
+g)Valid
+h)Valid
+i)Invalid
+
+QUESTION 5-
+
+
+QUESTION 6-
+
+a)8
+b)2
+c)15
+d)125
+e)1
+f)1
+g)1.666667
+h)1.666667
+i)2
+
+QUESTION 7-
+
+a)13
+b)196608
+
+QUESTION 8-
+
+a)3, 5
+b)3, 1
+c)3, 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
